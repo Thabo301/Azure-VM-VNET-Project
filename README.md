@@ -24,10 +24,10 @@ The lab consists of:
 
 ## Diagrams
 **Connectivity Flow**  
-![Connectivity Flow](images/azure_vm_lab_connectivity_flow.png)
+![Connectivity Flow](azure_vm_lab_architecture.png).
 
 **Network Architecture**  
-![Network Architecture](images/azure_vm_lab_architecture.png)
+![Network Architecture](azure_vm_lab_architecture.png)
 
 ## Security Features
 - NSGs allowing only Bastion access to VMs
